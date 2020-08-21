@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="app_title">Downloads</string>
+    <string name="tab_text_1">MOVIES</string>
+    <string name="tab_text_2">TV SHOWS</string>
+
+</resources>
